@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Ricardo Javier
 
 ## 🚀 About Me
-- 🇨🇱 Born in Chile
+- 🇨🇱 Born in Chile. I speak spanish and english 🇺🇸.
 - 🎓 **Programmer Analyst** with studies in Computer Engineering
 - 🔧 GNU/Linux power user, scripting and workflow optimization.
 - 💻 Growing programmer: I have mastered the basics of programming and am proficient at an intermediate level in various languages, currently delving deeper into **Rust**, with the goal of creating secure, robust, and cross-platform applications.
