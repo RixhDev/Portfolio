@@ -8,6 +8,8 @@
 - 🎥 **Creador de contenido en YouTube**, donde comparto conocimiento prácticos, experimentos y reflexiones acerca de la tecnología a diferentes audiencias.
 - 📚 I am a **autodidact** person passionate about deep learning and an explorer of the various areas where the technical and the creative intersect.
 - 📖 I love read books and research.
+- 📂 **Highly organized professional**, applying agile methodologies such as **Scrum** to manage projects efficiently, foster collaboration, and ensure continuous delivery of value.
+
 
 ## 💻 Tech Stack
 
