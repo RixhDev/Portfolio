@@ -10,12 +10,13 @@
 
 ## 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <!-- Sistemas Operativos -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
 
   <!-- Lenguajes -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt=Bash width="40" heigh="40"/>        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="40"
 heigh="40"/>
@@ -31,6 +32,15 @@ heigh="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 </p>
+
+## 💼 My projects
+
+- **Calculadora rápida en terminal** 🧮 Optimizada para funcionar en Bash, Powershell y Consola de windows.
+- **Gestor de Contraseñas en Rust** 🔐 Proyecto en desarrollo orientado a la seguridad y multiplataforma, explorando buenas prácticas en Rust. [Repositorio](#)
+- **Modificación de Sistema Operativo Linux Mint** 💻 Modificación profunda.
+- **Modificación de Sistema Operativo Android** 📱 Para instalación de LineageOS
+- **Producción de contenido educativo sobre ciencia y tecnología** 🎥 *(enlace a tu canal)*
+- - **Automatización de Flujos en Linux** 🐧 Desarrollo de Scripts personalizados para optimizar tareas repetitivas y mejorar la productividad en entornos Linux. [Repositorio](#)
 
 ## 📈 Current Goals
 - Probando código (Todo el tiempo)
