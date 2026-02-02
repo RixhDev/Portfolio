@@ -1,11 +1,11 @@
 # Hi there 👋, I'm Ricardo Javier
 
 ## 🚀 About Me
-- 🇨🇱 Born in Chile. I speak spanish and english 🇺🇸.
+- 🇨🇱 Born in Chile. I speak Spanish🇪🇸 and English 🇺🇸.
 - 🎓 **Programmer Analyst** with studies in Computer Engineering
+- 🧑‍💻 Ethical Hacker (I'm reusing the term; a hacker should always be ethical)
 - 🔧 GNU/Linux power user, scripting and workflow optimization.
-- 💻 Growing programmer: I have mastered the basics of programming and am proficient at an intermediate level in various languages, currently delving deeper into **Rust**, with the goal of creating secure, robust, and cross-platform applications.
-- 🎥 **Creador de contenido en YouTube**, donde comparto conocimiento prácticos, experimentos y reflexiones acerca de la tecnología a diferentes audiencias.
+- 💻 Growing programmer: I have mastered the intermediate level programming, currently delving deeper into **Rust**, with the goal of creating secure, robust, and cross-platform applications.
 - 📚 I am a **autodidact** person passionate about deep learning and an explorer of the various areas where the technical and the creative intersect.
 - 📖 I love read books and research.
 - 📂 **Highly organized professional**, applying agile methodologies such as **Scrum** to manage projects efficiently, foster collaboration, and ensure continuous delivery of value.
@@ -33,20 +33,16 @@ heigh="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="ReactJS" width=40 height="40"/>
           
-  <!-- Herramientas -->
+  <!-- Herramientas varias-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="MatLab" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="my-sql" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="posgresql" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cpanel/cpanel-original-wordmark.svg" alt="cpanel" width="40" height="40"/>
-          
-          
-        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cpanel/cpanel-original-wordmark.svg" alt="cpanel" width="40" height="40"/>        
 </p>
 
 ## 💼 My projects
-
 - **Fast terminal calculator** 🧮 Optimized to run in Bash, PowerShell, and Windows console. [Repositorio](#)
 - **Rust Password Manager** 🔐 Work-in-progress project focused on security, easy to use and cross-platform support, exploring best practices in Rust. [Repositorio](#)
 - **Local AI Model** 📱 A GNU-Linux operating system assistant. [Repository](#)
@@ -71,6 +67,3 @@ heigh="40"/>
 - GitHub: [RicardoTapiaDev](https://github.com/RicardoTapiaDev)
 - LinkedIn: [*(agrega tu enlace si lo tienes)*](https://www.linkedin.com/in/ricardo-javier-tapia-contreras-125474257/)
 - Email: *rtapiacontreras26@gmail.com*
-
----
-⭐️ Created by [RicardoTapiaDev](https://github.com/RicardoTapiaDev)
