@@ -49,7 +49,7 @@ heigh="40"/>
 - **Linux Mint OS Modification** 💻 Deep customization and system-level adjustments. [Repository](#)
 - **Android OS Modification** 📱 Hard customization for installing LineageOS. [Repository](#)-
 - **I create technology-focused content** 🎥 *https://www.youtube.com/@StarSecDev*
-- **Linux Workflow Automation** 🐧 I creaate custom scripts designed to streamline repetitive tasks and give a boost productivity in Linux environments. [Repository](#)
+- **Linux Workflow Automation** 🐧 I create custom scripts designed to streamline repetitive tasks and give a boost productivity in Linux environments. [Repository](#)
 
 ## 📈 Current Goals
 - Test code (Always)
