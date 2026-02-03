@@ -35,13 +35,13 @@
 </p>
 
 ## 💼 My projects
-- **Fast terminal calculator** 🧮 Optimized to run in Bash, PowerShell, and Windows console. [Repositorio](#)
-- **Rust Password Manager** 🔐 Work-in-progress project focused on security, easy to use and cross-platform support, exploring best practices in Rust. [Repositorio](#)
-- **Local AI Model** 📱 A GNU-Linux operating system assistant. [Repository](#)
-- **Linux Mint OS Modification** 💻 Deep customization and system-level adjustments. [Repository](#)
-- **Android OS Modification** 📱 Hard customization for installing LineageOS. [Repository](#)-
+- **Fast terminal calculator** 🧮 Optimized to run in Bash, PowerShell, and Windows console. *https://github.com/RixhDev/calculator-t*
+- **Rust Password Manager** 🔐 A project focused on security, easy to use and cross-platform support, exploring best practices in Rust. *(Work-in-progress)*
+- **Local AI Model** 📱 A GNU-Linux operating system assistant. *(Work-in-progress)*
+- **Linux Mint OS Modification** 💻 Deep customization and system-level adjustments. *(Work-in-progress)*
+- **Android OS Modification** 📱 Hard customization for installing LineageOS. *(Work-in-progress)*
 - **I create technology-focused content** 🎥 *https://www.youtube.com/@StarSecDev*
-- **Linux Workflow Automation** 🐧 I create custom scripts designed to streamline repetitive tasks and give a boost productivity in Linux environments. [Repository](#)
+- **Linux Workflow Automation** 🐧 I create custom scripts designed to streamline repetitive tasks and give a boost productivity in Linux environments. *(Work-in-progress)*
 
 ## 📃 Academic Certification's
 - Basic Software Design
@@ -58,7 +58,7 @@
 
 ## 🤝 Collaboration
 I am open to collaborating on open source projects, especially those related to security, automation, and technological innovation.
-also...
+Also...
 I am also interested in participating in science outreach initiatives and conducting research on technology and science.
 
 ## 📫 Contact
